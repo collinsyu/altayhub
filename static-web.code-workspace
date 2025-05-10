@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../static-web"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../mindray/acis-print-client"
+		}
+	],
+	"settings": {}
+}
