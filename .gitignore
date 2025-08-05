@@ -15,6 +15,6 @@ typings/
 .history/
 .nyc_output/
 dist/ 
-public/
+# public/
 build/*  
 !build/script/  
